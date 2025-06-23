@@ -1,4 +1,4 @@
-# Title here
+# Neptune 4 Plus/Max Y Axis double shear
 
 ## License
 
@@ -15,12 +15,14 @@ This work is licensed under a
 
 ## Introduction
 
-Write things here
+This model allows you to secure the Y axis shaft with another bearing on it's end to increase rigidity
 
 ### Features
-- More things
+- Allows the use of higher tensions, less belt slippage, more axis rigidity
+- Overall increases the usable acceleration of the machine
 ### Cons:
-- Things
+- Needs a custom endstop for the 4 pluses
+- Needs a specific model of motor
 
 🤩 Do you like the design? You can help fund innovations like this!
 
@@ -30,16 +32,23 @@ Much appreciation given to my supporters, and you get exclusive access to variou
 
 Submit feature requests [here!](https://trello.com/b/vacGVoLQ/cad-modelling-requests)
 
-## BOM
+## BOM (Only listing extra parts, no stock)
 
-- Table
+I'll get a commission if you shop here!
 
+[SF-Affiliate-landing-page](https://silencedfrostaff.carrd.co/)
+
+|Item|Amount|Recommended source|
 ## Print settings
-
-- Optional disclaimers
-
+- Model widthstands multiple sustained loads, decently creep-resistant materials recommended fe. from low to high: PETG-GF, ABS/ASA, etc...
 ### Minimum:
-- Things
+- 3 walls
+- 1.2mm top/bottom
+- 10% infill
 ### Recommended
-- Things
+- 0.45mm line width
+- 0.2mm layer height
+- 5 walls
+- 2mm top/bottom
+- 30% infill
 
