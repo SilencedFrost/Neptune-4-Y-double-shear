@@ -32,14 +32,15 @@ Much appreciation given to my supporters, and you get exclusive access to variou
 
 Submit feature requests [here!](https://trello.com/b/vacGVoLQ/cad-modelling-requests)
 
-## BOM
+## BOM (Only listing extra parts, no stock)
 
-- 
+I'll get a commission if you shop here!
 
+[SF-Affiliate-landing-page](https://silencedfrostaff.carrd.co/)
+
+|Item|Amount|Recommended source|
 ## Print settings
-
 - Model widthstands multiple sustained loads, decently creep-resistant materials recommended fe. from low to high: PETG-GF, ABS/ASA, etc...
-
 ### Minimum:
 - 3 walls
 - 1.2mm top/bottom
