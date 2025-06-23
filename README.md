@@ -24,7 +24,6 @@ This model allows you to secure the Y axis shaft with another bearing on it's en
 - Needs a custom endstop for the 4 pluses
 - Needs a specific model of motor
 
-
 🤩 Do you like the design? You can help fund innovations like this!
 
 [Consider supporting me!](https://buymeacoffee.com/silencedfrost)
